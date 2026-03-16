@@ -4,9 +4,9 @@
 
 **[Português](#português) | [English](#english)**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![TA-Lib](https://img.shields.io/badge/TA--Lib-Enabled-orange.svg)](https://ta-lib.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 *Plataforma de experimentação de features financeiras para modelos de Machine Learning aplicados ao mercado financeiro / Financial feature experimentation platform for ML models applied to financial markets*
 
